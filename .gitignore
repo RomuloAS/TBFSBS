@@ -1,0 +1,8 @@
+_pycache__/
+INPUT/
+HOMEWORK.md
+*.fa
+*.fas
+*.fasta
+*.aln
+*.log
